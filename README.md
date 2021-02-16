@@ -1,6 +1,6 @@
 # linear-relationships-and-correlation
 
-pPoject implemented as a course path activity "Interpreting Data with Python". The activity consists of identifying the correlation coefficient that evaluates whether there is a linear relationship between two continuous variables. A kaggle dataset - Bike Sharing - was used to explore the different ways of visualizing the correlations between it's attributes.
+Poject implemented as a course path activity "Interpreting Data with Python". The activity consists of identifying the correlation coefficient that evaluates whether there is a linear relationship between two continuous variables. A kaggle dataset - Bike Sharing - was used to explore the different ways of visualizing the correlations between it's attributes.
 
 https://www.kaggle.com/contactprad/bike-share-daily-data
 
