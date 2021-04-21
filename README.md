@@ -1,16 +1,3 @@
 # linear-relationships-and-correlation
 
-Project implemented as a course path activity "Interpreting Data with Python". The activity consists of identifying the correlation coefficient that evaluates whether there is a linear relationship between two continuous variables. A kaggle dataset - Bike Sharing - was used to explore the different ways of visualizing the correlations between it's attributes.
-
-https://www.kaggle.com/contactprad/bike-share-daily-data
-
-The Bike Sharing Dataset:
-Bike-sharing rental process is highly correlated to the environmental and seasonal settings. For instance, weather conditions,
-precipitation, day of week, season, hour of the day, etc. can affect the rental behaviors.
-
-Libs:
--numpy;
--pandas;
--matplotlib;
--scipy;
--yellowbrick
+Project implemented as a course path activity "Finding Relationships in Data with Python" by Pluralsight. The path contains three modules: 1. Identifying and Visualizing Common Relationships in Data; 2. Moduleldentifying and Visualizing Probabilistic and Statistical Relationships; and 3.Using Interactive Visualizations to Explore Relationships in Data.
